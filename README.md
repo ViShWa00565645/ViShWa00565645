@@ -24,7 +24,7 @@
 🔗 https://poster-ai-pro-mpe9.onrender.com/
 
 ### Skills
-HTML • CSS • JavaScript • Python • Node.js • Git • GitHub • Figma
+HTML • CSS • JavaScript • Python • Node.js • TypeScript • Java • Data structure & Algorithm• Git • GitHub • Figma
 
 ### Goal
 Become a Full Stack Developer and build useful AI-powered products 
