@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1200&center=true&vCenter=true&width=700&lines=Hi+I'm+Vishwa+👋;B.Tech+IT+Student;Web+Developer;Python+Learner;Building+AI+Projects" />
 </p>
 
-<h2 align="center">🚀 Vishwa Rajasekar</h2>
+<h2 align="center"> Vishwa Rajasekar</h2>
 
 <p align="center">
-B.Tech IT Student • Web Developer • Python Learner
+ IT Student • Web Developer • Python Learner
 </p>
 
 ### About Me
