@@ -21,7 +21,7 @@
  DSLR Blur Effect
  Inspiration Gallery
 
-🔗 www.behindlensai.onlone
+🔗 www.behindlensai.online
 
 ### Skills
 HTML • CSS • JavaScript • Python • Node.js • TypeScript • Java • Data structure & Algorithm• Git • GitHub • Figma
